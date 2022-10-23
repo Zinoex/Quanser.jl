@@ -1,0 +1,4 @@
+name = "Quanser"
+uuid = "f87a4450-ec5c-46ba-97c6-a532543509af"
+authors = ["Frederik Mathiesen <frederik_mathies@hotmail.com>"]
+version = "0.1.0"
